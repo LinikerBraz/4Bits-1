@@ -6,7 +6,7 @@
  */
 
 export default function Projects() {
-  const projects = [
+  /*const projects = [
     {
       title: "E-commerce Fashion",
       description: "Plataforma completa de vendas online com sistema de pagamento integrado e gestão de estoque.",
@@ -82,5 +82,5 @@ export default function Projects() {
         </div>
       </div>
     </section>
-  )
+  )*/
 }
