@@ -10,8 +10,8 @@ export default function Team() {
     {
       name: "Luiz Lininker",
       role: "CEO & Front-End Developer",
-      image: "/luiz.jpeg",
-      description: "Especialista em arquitetura de software com 8 anos de experiência em desenvolvimento web.",
+      image: "/luizliniker.jpeg",
+      description: "Especialista em desenvolvimento web.",
     },
     {
       name: "Caio Lima",
@@ -23,7 +23,7 @@ export default function Team() {
       name: "Matheus Bento",
       role: "Frontend Developer & Designer",
       image: "/matheus.jpeg",
-      description: "Criativa e detalhista, transforma ideias em interfaces incríveis e intuitivas.",
+      description: "Criativo e detalhisto, transforma ideias em interfaces incríveis e intuitivas.",
     },
     {
       name: "Glauber Ribeiro",
