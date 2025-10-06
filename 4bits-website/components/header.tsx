@@ -19,7 +19,9 @@ export default function Header() {
       }}
     >
       {/* Overlay escuro para melhor contraste */}
-      <div className="absolute inset-0 bg-[#601191] bg-opacity-80"></div>
+      <div className="absolute inset-0 bg-[#601191] bg-opacity-80">
+        <img src="/fundo-abstrato-com-design-baixo-poli.jpg" alt="" />
+      </div>
 
       {/* Conteúdo */}
       <div className="relative z-10 container mx-auto px-4 text-center">
