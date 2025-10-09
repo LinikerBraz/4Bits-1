@@ -20,7 +20,7 @@ export default function Header() {
     >
       {/* Overlay escuro para melhor contraste */}
       <div className="absolute inset-0 bg-[#601191] bg-opacity-80">
-        <img src="/fundo-abstrato-com-design-baixo-poli.jpg" alt="" />
+        <img src="/fundo-abstrato-com-design-baixo-poli.jpg" alt="" className="w-full h-full object-cover" />
       </div>
 
       {/* Conteúdo */}

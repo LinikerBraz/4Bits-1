@@ -70,8 +70,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-[#280120] mb-1">Email</h4>
-                  <p className="text-gray-600">contato@4bits.com.br</p>
-                  <p className="text-gray-600">suporte@4bits.com.br</p>
+                  <p className="text-gray-600">contato.4bitslabs@gmail.com.br</p>
                 </div>
               </div>
 
@@ -81,8 +80,9 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-[#280120] mb-1">Telefone</h4>
-                  <p className="text-gray-600">(11) 98765-4321</p>
-                  <p className="text-gray-600">(11) 3456-7890</p>
+                  <a href="">
+                    <p className="text-gray-600">(35) 9989-2814</p>
+                  </a>
                 </div>
               </div>
 
@@ -93,9 +93,7 @@ export default function Contact() {
                 <div>
                   <h4 className="font-semibold text-[#280120] mb-1">Endereço</h4>
                   <p className="text-gray-600">
-                    Av. Paulista, 1000 - Sala 42
-                    <br />
-                    São Paulo, SP - CEP 01310-100
+                    Monsenhor Paulo - MG
                   </p>
                 </div>
               </div>

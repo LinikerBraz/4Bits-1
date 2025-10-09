@@ -27,9 +27,9 @@ export default function Team() {
     },
     {
       name: "Glauber Ribeiro",
-      role: "Mobile Developer & DevOps",
+      role: "Head of Growth",
       image: "/glauber.jpeg",
-      description: "Especialista em desenvolvimento mobile e automação de processos de deploy.",
+      description: "Lidera iniciativas para expandir a empresa, combinando marketing, vendas e inovação.",
     },
   ]
 

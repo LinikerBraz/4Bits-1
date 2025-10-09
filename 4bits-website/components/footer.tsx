@@ -4,7 +4,7 @@
  * Rodapé do site com informações da empresa e links
  */
 
-import { Facebook, Instagram, Linkedin, Twitter } from "lucide-react"
+import { Facebook, Instagram, LinkedinIcon, Twitter } from "lucide-react"
 
 export default function Footer() {
   return (
@@ -18,7 +18,7 @@ export default function Footer() {
               Transformando ideias em soluções tecnológicas inovadoras. Sua parceira em desenvolvimento de software.
             </p>
             <div className="flex gap-4">
-              <a
+              {/*<a
                 href="#"
                 className="p-2 bg-white bg-opacity-10 rounded-lg hover:bg-opacity-20 transition-colors"
                 aria-label="Facebook"
@@ -37,7 +37,7 @@ export default function Footer() {
                 className="p-2 bg-white bg-opacity-10 rounded-lg hover:bg-opacity-20 transition-colors"
                 aria-label="LinkedIn"
               >
-                <Linkedin className="w-5 h-5" />
+                <LinkedinIcon className="w-5 h-5"></LinkedinIcon>
               </a>
               <a
                 href="#"
@@ -45,7 +45,7 @@ export default function Footer() {
                 aria-label="Twitter"
               >
                 <Twitter className="w-5 h-5" />
-              </a>
+              </a>*/}
             </div>
           </div>
 
@@ -80,9 +80,9 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-bold mb-4 text-[#fd59ca]">Contato</h4>
             <ul className="space-y-2 text-gray-300">
-              <li>contato@4bits.com.br</li>
-              <li>(11) 98765-4321</li>
-              <li>São Paulo, SP</li>
+              <li>contato.4bitslabs@gmail.com.br</li>
+              <li>(35) 9989-2814</li>
+              <li>Monsenhor Paulo, MP</li>
             </ul>
           </div>
         </div>
