@@ -27,22 +27,15 @@ export default function About() {
 
           <div className="bg-white bg-opacity-10 backdrop-blur-md rounded-3xl p-8 md:p-12 text-black mb-12 border border-white border-opacity-20">
             <p className="text-lg md:text-xl leading-relaxed mb-6">
-              A <strong className="text-[#03b2ed]">4 Bits</strong> é uma empresa de tecnologia fundada por quatro
-              profissionais apaixonados por inovação e desenvolvimento de software. Nascemos com o propósito de
-              transformar ideias em realidade digital, oferecendo soluções tecnológicas personalizadas que impulsionam o
-              crescimento e a eficiência dos nossos clientes.
+            A <strong className="text-[#03b2ed]">4 Bits</strong> é uma empresa de tecnologia criada por quatro profissionais apaixonados por inovação. Nosso foco é transformar ideias em soluções digitais personalizadas que impulsionam o crescimento dos clientes.
             </p>
 
             <p className="text-lg md:text-xl leading-relaxed mb-6">
-              Nossa equipe combina expertise técnica com criatividade para desenvolver aplicações web, mobile e sistemas
-              corporativos de alta performance. Utilizamos as tecnologias mais modernas do mercado e seguimos as
-              melhores práticas de desenvolvimento para garantir produtos escaláveis, seguros e de fácil manutenção.
+              Desenvolvemos aplicações web, mobile e sistemas corporativos com alta performance, usando tecnologias modernas e boas práticas para garantir segurança, escalabilidade e fácil manutenção.
             </p>
 
             <p className="text-lg md:text-xl leading-relaxed">
-              Acreditamos que a tecnologia deve ser acessível, eficiente e, acima de tudo, útil. Por isso, trabalhamos
-              lado a lado com nossos clientes, entendendo suas necessidades e desafios para criar soluções que realmente
-              fazem a diferença no dia a dia dos negócios.
+              Acreditamos em tecnologia acessível e útil. Atuamos próximos aos clientes, entendendo seus desafios para entregar soluções que realmente fazem a diferença.
             </p>
           </div>
 
